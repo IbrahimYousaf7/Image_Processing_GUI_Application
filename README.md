@@ -1,5 +1,7 @@
 # Image_Processing Techniques using GUI Application
 
+A sample image of Leena has also been added to the repo for anyone who wants to test the filters on an image.
+
 # First Cell
 
 The code in the first cell contains image filters such as average,laplacian,histogram equaliztion,thresholding,clustering, laplacian of gausian and adaptive thresholding. This code is for images only. 
